@@ -1,0 +1,4 @@
+Carte Micro SD 64Go minimum x1
+Câble mini HDMI -> HDMI x1
+Câble d'alimentation Type C -> USB x1
+Boîtier de Protection pour Raspberry Pi 4
